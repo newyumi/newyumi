@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 'companywe'
-- 🌱 I’m currently learning graphql/blockchain/English
-- 👯 I’m looking to collaborate on the LAT(last apple tree) App, which is kind a application for `collaborate` based on React/Node
-- 🤔 I’m looking for help with a expert of React.js
-- 💬 Ask me about hiring to my company
+- 🔭 I’m currently working as a front-end developer.
+- 🌱 I’m currently learning next.js/prisma/blockchain/English
+- 👯 I'm looking for a fun side project.
+- 🤔 I'm currently studying for a coding test.
 - 📫 How to reach me: <img src="https://img.shields.io/badge/Gmail-queen0701@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
 - ⚡ Tech Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=222"/></a>
