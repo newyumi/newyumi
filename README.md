@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as a front-end developer.
-- 🌱 I’m currently learning next.js/prisma/blockchain/English
+- 🌱 I’m currently learning next.js/AI/English
 - 👯 I'm looking for a fun side project.
 - 🤔 I'm currently studying for a coding test.
 - 📫 How to reach me: <queen0701@gmail.com>
