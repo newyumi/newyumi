@@ -1,3 +1,14 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/newyumi?pet-id=1"
+    width="600"
+    height="120"
+  />
+</a>
+<!-- width 1000, height 120, contribution-view=false -->
+
+
 ### Hi there 👋
 I am Yumi, a front-end developer and Technical Program Manager.<br/>
 I enjoy taking on new challenges and gaining diverse experiences.<br/>
