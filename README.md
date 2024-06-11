@@ -1,12 +1,10 @@
-
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/newyumi?pet-id=1"
-    width="600"
-    height="120"
-  />
-</a>
-<!-- width 1000, height 120, contribution-view=false -->
+<img
+  src="https://render.gitanimals.org/farms/newyumi"
+  width="600"
+  height="300"
+/>
+</a><br/><br/>
 
 
 ### Hi there 👋
